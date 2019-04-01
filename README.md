@@ -1,0 +1,2 @@
+# tpt-spinner-publish
+publish
